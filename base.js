@@ -13,17 +13,17 @@ module.exports = {
 	** directory and no longer look up .eslintrc.js
 	** @see https://eslint.org/docs/user-guide/configuring/configuration-files#using-configuration-files
 	**/
-	root: true,
+	// root: true,
 
 	/**
 	** Environment.
 	**/
-	env: {
+	// env: {
 
-		browser: true,
-		node: true,
+	// 	browser: true,
+	// 	node: true,
 
-	},
+	// },
 
 	/**
 	** Parser options.
@@ -44,8 +44,8 @@ module.exports = {
 		// 'plugin:nuxt/recommended',
 		// 'prettier',
 
-		'eslint:recommended',
-		'prettier',
+		// 'eslint:recommended',
+		// 'prettier',
 
 	],
 

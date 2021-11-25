@@ -14,17 +14,17 @@ module.exports = {
 	/**
 	** Root.
 	**/
-	root: true,
+	// root: true,
 
 	/**
 	** Environment.
 	**/
-	env: {
+	// env: {
 
-		browser: true,
-		node: true,
+	// 	browser: true,
+	// 	node: true,
 
-	},
+	// },
 
 	/**
 	** Allows us to lint the <template> of .vue files.
@@ -99,7 +99,7 @@ module.exports = {
 
 		'@nuxtjs',
 		'plugin:nuxt/recommended',
-		'prettier',
+		// 'prettier',
 
 	],
 

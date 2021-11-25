@@ -1,13 +1,17 @@
 /**
 ** 
 **/
-module.exports = {
+// module.exports = {
 
-	extends: [ 
+// 	extends: [ 
 		
-		'./base.js', 
-		'./nuxt.js',
+// 		'./base.js', 
+// 		'./nuxt.js',
 	
-	],
+// 	],
 
-};
+// };
+
+const eslintrc = require('./.eslintrc.js');
+
+module.exports = eslintrc;
