@@ -3,11 +3,14 @@
 	"version": "0.0.1",
 	"description": "ESLint shareable config LITH",
 	"license": "MIT",
-	"repository": "sermonis/eslint-config-lith",
+	"repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/sermonis/eslint-config-lith.git"
+	},
 	"author": "woodell",
 	"engines": {
 	  "node": ">=12"
-	},	
+	},		
 	"files": [
 	  "index.js"
 	],
