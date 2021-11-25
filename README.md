@@ -1,2 +1,2 @@
 # ESLint shareable configuration LITH  
-<img alt="LITH" src="eslint-config-lith.jpg">
+<img alt="LITH" src="/docs/eslint-config-lith.jpg">
